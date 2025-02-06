@@ -1,5 +1,5 @@
 .alamin-banner{
-    @apply bg-[#0d2325f3] pt-[67px] pbg-[145px]
+    @apply bg-[#0d2325f3] pt-[67px] pb-[145px]
 }
 .banner-row{
     @apply flex justify-between items-center

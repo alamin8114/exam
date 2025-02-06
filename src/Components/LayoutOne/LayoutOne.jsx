@@ -4,8 +4,8 @@ import Navbar from "../Navbar/Navbar"
 const LayoutOne = () => {
   return (
     <>
-        {/* <Navbar/>
-        <Out */}
+    <Navbar/>
+    <Outlet/>
     </>
   )
 }
