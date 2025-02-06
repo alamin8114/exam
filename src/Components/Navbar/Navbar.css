@@ -1,0 +1,15 @@
+.alamin-nav{
+    @apply py-[35px] absolute w-full
+}
+.main-nav {
+    @apply flex justify-between items-center
+}
+.main-nav .logo{
+    @apply w-[130px]
+}
+.menu ul{
+    @apply flex gap-[80px]
+}
+.menu ul li a{
+    @apply text-[#FFFFFF] font-inter font-semibold text-[16px] hover:bg-gradient-to-t to-[#008B9F] from-[#7CEEFF] px-[35px] py-[12px] rounded-[20px] transition-all duration-[.4s]
+}
